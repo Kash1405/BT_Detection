@@ -7,7 +7,13 @@ Objectives of the project:<br>
 
 The following project entails a brain tumor detection model built to identify MRI scans positive for brain tumors from the input MRI scans.<br>
 ___
-
+## Dataset Used : 
+The Dataset used was sourced from Kaggle: 
+```sh
+   https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
+```
+For github, I have uploaded only a handful of the training and testing samples. To fetch the entire dataset, you can visit the link above.
+___
 ## Libraries used : 
 ```
 * pandas
@@ -33,5 +39,4 @@ ___
    ```sh
    pip install -r requirements.txt
 3. Open and run the commented BT_Detection.ipynb file
-
 ___
