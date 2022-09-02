@@ -1,8 +1,6 @@
 # Brain Tumor Detection
 What are Brain Tumors?<br>
 
-# Brain Tumor Detection
-
 A brain tumor is a mass or growth of abnormal cells in your brain in an uncontrollable way. Many different types of brain tumors exist. Some brain tumors are non-cancerous (benign), and some brain tumors are cancerous (malignant). <br>
 
 Objectives of the project:<br>
